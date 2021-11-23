@@ -1,0 +1,39 @@
+{
+  "name": "Light Void",
+  "version": "1.2.0",
+  "description": "Light Void is a Top Down Space Shooter and Classic Retro 8-bit Game with Pixel Art Graphics. Press 5 to Shoot and Press 2, 4, 6 or 8 to Move.",
+  "launch_path": "/index.html",
+  "type": "web",
+  "origin": "app://LightVoid",
+  "fullscreen": "true",
+  "orientation": [
+    "portrait"
+  ],
+  "categories": [
+    "games"
+  ],
+  "icons": {
+    "56": "/Icon/A56x56.png",
+    "112": "/Icon/A112x112.png"
+  },
+  "dependencies": {
+		"ads-sdk": "1.4.1"
+	},
+  "developer": {
+    "name": "Heri Kaniugu",
+    "url": "http://github.com/herikaniugu"
+  },
+  "permissions": {
+    "mobiledata": {},
+    "wifidata": {}
+  },
+  "locales": {
+    "en-US": {
+      "name": "Light Void",
+      "subtitle": "Fight the Big Battle at the White Galaxy",
+      "description": "Light Void is a Top Down Space Shooter and Classic Retro 8-bit Game with Pixel Art Graphics. Press 5 to Shoot and Press 2, 4, 6 or 8 to Move."
+    }
+  },
+  "default_locale": "en-US",
+  "theme_color": "#cccccc"
+}
